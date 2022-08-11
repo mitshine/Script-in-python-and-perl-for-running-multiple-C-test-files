@@ -1,0 +1,28 @@
+C:\Users\Mitesh Khadgi\Downloads\python_examples\scripting>perl script.pl
+
+File location: ./test_files/hello_world_1.c
+Name of the test file: hello_world_1.c
+OUTPUT:
+Hello, World 1!
+
+File location: ./test_files/hello_world_2.c
+Name of the test file: hello_world_2.c
+OUTPUT:
+Hello, World 2!
+
+File location: ./test_files/hello_world_3.c
+Name of the test file: hello_world_3.c
+OUTPUT:
+Hello, World 3!
+
+File location: ./test_files/hello_world_4.c
+Name of the test file: hello_world_4.c
+OUTPUT:
+Hello, World 4!
+
+File location: ./test_files/hello_world_5.c
+Name of the test file: hello_world_5.c
+OUTPUT:
+Hello, World 5!
+
+Simulation time: 1 seconds
